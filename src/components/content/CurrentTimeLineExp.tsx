@@ -25,34 +25,34 @@ const CurrentTimeLineExp = () => {
         <Timeline>
 
             <TimelineEvent>
-                <TimelineEvent.Title>Fiaz Technologies | Nov. 2023 - Present</TimelineEvent.Title>
+                <TimelineEvent.Title>Software Engineer II - Changera | Jul. 2022 - Present</TimelineEvent.Title>
                 <TimelineEvent.Description>
-                    Building and helping developer-first tools at Fiaz Technologies. Involved in creating innovative tools to enhance developer productivity.
+                Developed and optimized Changera’s Business APIs using NestJs, facilitating seamless integration and enhancing the user experience, which contributed to an increase in transaction volume.
                 </TimelineEvent.Description>
             </TimelineEvent>
 
             <TimelineEvent>
-                <TimelineEvent.Title>Hacktoberfest 2024 | Oct. 2024 - Nov. 2024</TimelineEvent.Title>
+                <TimelineEvent.Title>Backend Developer - Trofira | Mar. 2022 - Oct. 2022</TimelineEvent.Title>
                 <TimelineEvent.Description>
-                    Participated as a maintainer and content writer in the Hacktoberfest event. Contributed to open-source projects and wrote technical content on platforms such as Medium, Dev.to, and Hashnode.
+                Engineered Trofira’s APIs using NestJs, driving the mobile application’s functionality and contributing to a 25% increase in user engagement.
                 </TimelineEvent.Description>
             </TimelineEvent>
 
             <TimelineEvent>
-                <TimelineEvent.Title>CodSoft - Data Science Intern | Sep. 2023 - Oct. 2023</TimelineEvent.Title>
+                <TimelineEvent.Title>Software Developer - IxNotes Services | Aug. 2021 - Jul. 2022</TimelineEvent.Title>
                 <TimelineEvent.Description>
-                    Self-paced Data Science Intern where I gained practical experience in data science applications using Python. I also contributed to open-source projects and maintained repositories on GitHub.
+                Designed and implemented the graph interface on the enterprise user management (EUM) application for UNICEF, improving data visualization and decision-making processes.
                 </TimelineEvent.Description>
             </TimelineEvent>
 
             <TimelineEvent>
-                <TimelineEvent.Title>Hacktoberfest 2023 | Sep. 2023 - Oct. 2023</TimelineEvent.Title>
+                <TimelineEvent.Title>Software Developer - filerskeepers | Sep. 2020 - Aug. 2021</TimelineEvent.Title>
                 <TimelineEvent.Description>
-                    Participated as a maintainer and content writer in the Hacktoberfest event. Contributed to open-source projects and wrote technical content on platforms such as Medium, Dev.to, and Hashnode.
+                Developed APIs for legal retention schedules using NodeJs and AWS lambda, improving data management efficiency and compliance, which resulted in a 15% reduction in legal risks and associated costs.
                 </TimelineEvent.Description>
             </TimelineEvent>
 
-            <TimelineEvent>
+            {/* <TimelineEvent>
                 <TimelineEvent.Title>Technical Content Writer | Sep. 2023 - Present</TimelineEvent.Title>
                 <TimelineEvent.Description>
                     Writing technical content and tutorials on platforms like Medium, Dev.to, and Hashnode. Topics include software development, data science, and open-source contributions.
@@ -63,7 +63,7 @@ const CurrentTimeLineExp = () => {
                 <TimelineEvent.Description>
                     Actively contributing to and maintaining open-source repositories on GitHub. Focused on building and improving tools for the developer community.
                 </TimelineEvent.Description>
-            </TimelineEvent>
+            </TimelineEvent> */}
 
         </Timeline>
     );

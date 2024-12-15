@@ -1,42 +1,82 @@
 export const skills = [
   {
     title: 'Programming Languages',
-    techs: ['C', 'C++', 'Dart', 'Go', 'Java', 'JavaScript', 'Kotlin', 'PHP', 'Python', 'Rust', 'TypeScript', 'CSS', 'HTML', 'Sass']
+    techs: ['JavaScript', 'Python', 'TypeScript', 'CSS', 'HTML']
   },
   {
     title: 'Frameworks and Libraries',
-    techs: ['Angular', 'Bootstrap', 'Django', 'Express', 'Flask', 'Flutter', 'jQuery', 'Next.js', 'Node.js', 'React', 'Redux', 'Svelte', 'Vue', 'TensorFlow', 'PyTorch', 'Tauri', 'Electron', 'Tailwind CSS','Gradio', 'Streamlit',]
+    techs: [
+      'Express',
+      'Flask',
+      'Node.js',
+      'NestJs',
+      'React',
+      'Redux',
+      'Chart.js',
+      'React Native',
+      'RxJs',
+      'Web3.js',
+      'Matplotlib',
+      'Numpy',
+      'Pandas',
+      'Sci-kit learn'
+    ]
   },
   {
     title: 'Tools and IDEs',
-    techs: ['Android Studio', 'Atom', 'Eclipse', 'Figma', 'Git', 'GitHub', 'GitHub Actions', 'GitLab', 'Gradle', 'Gulp', 'Heroku', 'IntelliJ IDEA', 'VS Code', 'Visual Studio', 'Webpack', 'Vite', 'Turbopack' ,'Docker']
+    techs: [
+      'Android Studio',
+      'Atom',
+      'Git',
+      'GitHub',
+      'GitHub Actions',
+      'GitLab',
+      'Heroku',
+      'VS Code',
+      'Visual Studio',
+      'Cursor',
+      'Docker',
+      'Jira',
+      'Elastic Search',
+      'Postman',
+      'Swagger',
+      'Nginx',
+      'Yarn',
+      'Npm',
+      'Bun'
+    ]
   },
   {
     title: 'Cloud Platforms and Hosting',
-    techs: ['AWS', 'Azure', 'GCP', 'Cloudflare', 'Firebase', 'Netlify', 'Vercel', 'Heroku']
+    techs: ['AWS', 'Firebase', 'Netlify', 'Heroku', 'Digital Ocean']
   },
   {
     title: 'Databases',
-    techs: ['MongoDB', 'MySQL', 'PostgreSQL', 'SQLite', 'Redis', 'Neon DB', 'AstroDB']
+    techs: ['MongoDB', 'MySQL', 'PostgreSQL', 'SQLite', 'Redis', 'Dynamodb']
   },
   {
     title: 'Version Control & Collaboration',
-    techs: ['Git', 'GitHub', 'GitLab', 'Bitbucket', 'Slack']
+    techs: ['Git', 'GitHub', 'GitLab', 'Slack', 'Discord']
   },
   {
     title: 'Operating Systems & Environments',
-    techs: ['Linux', 'Windows', 'PowerShell', 'Bash', 'Docker', 'NGINX']
+    techs: ['Linux', 'Windows', 'Bash', 'Docker', 'NGINX']
   },
-  {
-    title: 'Game Development',
-    techs: ['Unity', 'Unreal']
-  },
+  // {
+  //   title: 'Game Development',
+  //   techs: ['Unity', 'Unreal']
+  // },
   {
     title: 'ORM (Object-Relational Mapping)',
-    techs: ['Prisma', 'TypeORM', 'Sequelize']
+    techs: ['TypeORM', 'Sequelize']
   },
   {
     title: 'Machine Learning & AI ',
-    techs: ['Hugging Face', 'Transformers', 'Diffusers',  'Stable Diffusion']
-  },
+    techs: [
+      'Logistic Regression',
+      'Random Forest',
+      'Naive Bayes',
+      'Neural Network'
+    ]
+  }
 ];

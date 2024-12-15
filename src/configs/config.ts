@@ -1,47 +1,53 @@
 export const siteConfig: {
-    baseUrl: string;
-    author: string;
-    author_surname: string;
-    titlePrefix: string;
-    profile_image: string;
-    form_id: string;
-    social: {
-        email: string;
-        twitter: string;
-        github: string;
-        linkedin: string;
-        blog: string;
-        medium: string;
-        dev: string;
-        hashnode: string;
-
-    };
-    metadata: {
-        description: string;
-        keywords: string;
-        type: string;
-    };
+  baseUrl: string;
+  author: string;
+  author_surname: string;
+  titlePrefix: string;
+  profile_image: string;
+  form_id: string;
+  social: {
+    email: string;
+    twitter: string;
+    github: string;
+    linkedin: string;
+    blog: string;
+    medium: string;
+    dev: string;
+    hashnode: string;
+  };
+  metadata: {
+    description: string;
+    keywords: string;
+    type: string;
+  };
 } = {
-    baseUrl: 'https://muhammadfiaz.com',
-    author: 'Muhammad Fiaz',
-    author_surname: 'Fiaz',
-    titlePrefix: 'Muhammad Fiaz',
-    profile_image: 'https://avatars.githubusercontent.com/u/75434191?s=400&u=0aa88e4ae941c44425b2be4595cf92b68f578f8a&v=4',
-    form_id:'https://formspree.io/f/myzynpbr',
-    social: {
-        email: 'contact@muhammadfiaz.com',
-        twitter: '@muhammadfiaz_',
-        github: 'muhammad-fiaz',
-        linkedin: 'https://www.linkedin.com/in/muhammad-fiaz-/',
-        blog: 'https://articles.muhammadfiaz.com',
-        medium: 'https://muhammad-fiaz.medium.com',
-        dev: 'https://dev.to/muhammadfiaz',
-        hashnode: 'https://muhammadfiaz.hashnode.dev',
-    },
-    metadata: {
-        description: `Hi! I'm Muhammad Fiaz, a Full Stack developer passionate about building apps, exploring AI and ML, and collaborating on exciting projects. Let's connect!`,
-        keywords:
-            'Muhammad Fiaz, Full Stack Developer, Muhammad Fiaz portfolio, Muhammad Fiaz GitHub, Web Development, Mobile Applications, Machine Learning, Artificial Intelligence, Programming Languages, Open Source Developer, App Development',
-        type: 'website',
-    },
+  baseUrl: 'https://mosesdanielkwaknat.com',
+  author: 'Moses Daniel Kwaknat',
+  author_surname: 'Kwaknat',
+  titlePrefix: 'Moses Daniel Kwaknat',
+  profile_image:
+    'https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F441121%2F809446bd-a92a-4c1d-9d02-0a99ff518cf1.jpg',
+  form_id: 'https://formspree.io/f/myzynpbr',
+  social: {
+    email: 'mosesdaniel201798@gmail.com',
+    twitter: '@niel_morphius',
+    github: 'niel98',
+    linkedin: 'https://www.linkedin.com/in/moses-daniel-kwaknat/',
+    blog: '',
+    medium: 'https://medium.com/@mosesdaniel201798',
+    dev: 'https://dev.to/niel_morphius',
+    hashnode: 'https://hashnode.com/@nielmorphius'
+  },
+  metadata: {
+    description: `I am a backend software engineer at a fintech startup, focused on building scalable and efficient solutions that streamline global payments. With a passion for developing impactful technology, I am particularly interested in collaborating on innovative projects that address challenges in Africa and beyond.
+
+I am continuously honing my skills in data structures, algorithms, and system design, and am currently expanding my knowledge in data science, with a strong interest in artificial intelligence.
+
+Feel free to reach out if you have questions about backend development, particularly within the Node.js/Nest.js ecosystem.
+
+In my spare time, I enjoy playing video games like FIFA and watching movies.`,
+    keywords:
+      'Moses Daniel Kwaknat, Backend software engineer, Moses Daniel Kwaknat portfolio, Moses Daniel Kwaknat GitHub, Web Development, Backend Development, REST APIs, Machine Learning, Artificial Intelligence, Programming Languages',
+    type: 'website'
+  }
 };

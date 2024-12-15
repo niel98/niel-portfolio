@@ -10,7 +10,8 @@ const nextConfig: NextConfig = {
         port: '',
         pathname: '/**'
       }
-    ]
+    ],
+    domains: ['media2.dev.to']
   }
 };
 

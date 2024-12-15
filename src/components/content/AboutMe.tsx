@@ -9,37 +9,39 @@ const AboutMe = () => {
       </h2>
 
       <p className="text-base text-gray-400">
-        Hey there! 👋 I'm <strong>{siteConfig.author}</strong>, and I've been
-        passionate about coding since I was a child. I fell in love with
-        programming at a young age, spending countless hours learning,
-        experimenting, and creating small projects. Over the years, this passion
-        has grown into a career as a Full Stack developer, where I continue to
-        build innovative solutions that solve real-world problems.
+        Hey there! 👋 I'm <strong>{siteConfig.author}</strong>, 
+        and my journey into the world of technology began with an insatiable curiosity to understand how things work. 
+        From building small applications during my early days to becoming a skilled backend engineer in the fintech space, 
+        I’ve always been driven by a desire to create solutions that make life simpler and better for people.
       </p>
 
       <p className="text-base text-gray-400 mt-4">
-        As I’ve evolved in my career, I’ve expanded my expertise into new areas
-        like Machine Learning (ML) and Artificial Intelligence (AI), diving deep
-        into neural networks and other cutting-edge technologies. But no matter
-        how much I learn, I always keep that same excitement and curiosity I had
-        as a child, exploring new fields and technologies that push the
-        boundaries of what’s possible.
+      Over the years, I’ve honed my expertise in backend development, 
+      mastering tools like TypeScript, Node.js, and NestJS to build scalable and secure systems. 
+      My work has allowed me to enhance system reliability, optimize APIs, 
+      and contribute to products that have positively impacted thousands of users. 
       </p>
 
       <p className="text-base text-gray-400 mt-4">
-        Today, I’m not just focused on building apps and websites; I’m also
-        exploring DevOps tools like Docker, Kubernetes, and AWS to optimize and
-        scale my projects. I believe in continuous learning and growth, and I’m
-        always looking for new challenges that help me expand my skills.
+      Beyond traditional software engineering, 
+      I’m passionate about exploring the intersections of artificial intelligence and blockchain. 
+      My experience includes deploying webhooks for cryptocurrency settlements and implementing secure 
+      API architectures that ensure compliance and security in the fintech ecosystem.
       </p>
 
       <p className="text-base text-gray-400 mt-4">
-        If you’re interested in collaborating on something exciting or need help
-        with a project, feel free to reach out. Let’s create something amazing
-        together!
+      Recently, I’ve expanded my focus to include emerging technologies and their potential to address larger societal challenges, 
+      particularly in Nigeria. Whether it’s using machine learning to tackle fake news detection or brainstorming innovative solutions. 
+      </p>
+
+      <p className="text-base text-gray-400 mt-4">
+      I’m also a lifelong learner, always looking to explore new tools and technologies like Redis, 
+      RabbitMQ, and cloud platforms to take my projects to the next level. If you’re working on something groundbreaking 
+      or need a collaborator who brings technical expertise and a passion for problem-solving, I’d love to connect. 
+      Together, let’s turn ideas into impactful solutions!"
       </p>
     </AnimationContainer>
   );
-};
+};      
 
 export default AboutMe;

@@ -18,15 +18,15 @@ const BlogSection = () => {
     const fetchBlogs = async () => {
       setIsLoading(true);
       try {
-        const response = await fetch(`/api/fetchRSS`);
-        const data = await response.json();
+        // const response = await fetch(`/api/fetchRSS`);
+        // const data = await response.json();
 
         // Filter blogs based on search
-        const filteredBlogs = data.items.filter((blog: any) =>
-          blog.title.toLowerCase().includes(blogSearch.toLowerCase())
-        );
+        // const filteredBlogs = data.items.filter((blog: any) =>
+        //   blog.title.toLowerCase().includes(blogSearch.toLowerCase())
+        // );
 
-        setBlogs(filteredBlogs);
+        // setBlogs(filteredBlogs);
       } catch (error) {
         console.error('Error fetching RSS feed:', error);
       } finally {

@@ -1,9 +1,9 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/97ddad97-5d77-40b6-8fa3-35e2e034a97d"  alt="Muhammad Fiaz's Portfolio"/>
-</p>
+<!-- <p align="center">
+  <img src="https://github.com/user-attachments/assets/97ddad97-5d77-40b6-8fa3-35e2e034a97d"  alt="Niel's Portfolio"/>
+</p> -->
 
 <div align="center">
-  <h1><a href="https://muhammadfiaz.com/">muhammadfiaz.com</a> | portfolio V2.0.0</h1>
+  <h1><a href="https://mosesdanielkwaknat.com/">mosesdanielkwaknat.com</a> | portfolio V2.0.0</h1>
   
 ![Stability](https://img.shields.io/badge/stability-good-blue.svg) ![MIT License](https://img.shields.io/badge/license-MIT-green)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/muhammad-fiaz/portfolio)
@@ -30,11 +30,11 @@
 
 </div>
 
-This project is built with Next.js and React, showcasing [Muhammad Fiaz](https://github.com/muhammad-fiaz/)'s [personal website](https://muhammadfiaz.com/).
+This project is built with Next.js and React, showcasing [Moses Daniel Kwaknat](https://github.com/niel98/)'s [personal website](https://mosesdanielkwaknat.com/).
 
-**Feel free to use this project for your portfolio or as a project reference. If you find it helpful, don't forget to give it a ⭐️ to show your support. [Fork this repo](https://github.com/muhammad-fiaz/portfolio/fork) if you want to contribute✨**
+**Feel free to use this project for your portfolio or as a project reference. If you find it helpful, don't forget to give it a ⭐️ to show your support. [Fork this repo](https://github.com/niel98/niel-portfolio/fork) if you want to contribute✨**
 
-**Support me with a little [sponsor ❤️](https://github.com/sponsors/muhammad-fiaz)**
+**Support me with a little [sponsor ❤️](https://github.com/sponsors/niel98)**
 
 ## Table of Contents
 
@@ -56,18 +56,18 @@ This project is built with Next.js and React, showcasing [Muhammad Fiaz](https:/
 
 ### Release Notes
 
-For a detailed list of releases and changes, please visit the [GitHub Releases page](https://github.com/muhammad-fiaz/portfolio/releases).
+For a detailed list of releases and changes, please visit the [GitHub Releases page](https://github.com/niel98/niel-portfolio/releases).
 
 You can also refer to the [CHANGELOG.md](./CHANGELOG.md) file for comprehensive information about each release.
 
-if you have any suggestions or feedback, feel free to open an [issue](https://github.com/muhammad-fiaz/portfolio/issues) or a [pull request](https://github.com/muhammad-fiaz/portfolio/pulls).
+if you have any suggestions or feedback, feel free to open an [issue](https://github.com/niel-98/niel-portfolio/issues) or a [pull request](https://github.com/niel98/niel-portfolio/pulls).
 
 ## Getting Started
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/muhammad-fiaz/portfolio.git`
-2. Navigate to the project directory: `cd portfolio`
+1. Clone the repository: `git clone https://github.com/niel98/niel-portfolio.git`
+2. Navigate to the project directory: `cd niel-portfolio`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm run dev`
 5. Open [http://localhost:3000](http://localhost:3000) in your browser to view the website.
@@ -114,7 +114,7 @@ Please Read the [Next.js Documentation](https://nextjs.org/docs/getting-started)
 Also, Read the [React.js Documentation](https://reactjs.org/docs/getting-started.html).
 
 
-## Support Me
+<!-- ## Support Me
 
 <div align="center">
 
@@ -127,12 +127,12 @@ Also, Read the [React.js Documentation](https://reactjs.org/docs/getting-started
 <div align="center">
 
 [![Star History Chart](https://api.star-history.com/svg?repos=muhammad-fiaz/portfolio&type=Date)](https://github.com/muhammad-fiaz/portfolio/)
-</div>
+</div> -->
 
 
-## License
+<!-- ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/muhammad-fiaz/portfolio/blob/main/LICENSE.md) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/muhammad-fiaz/portfolio/blob/main/LICENSE.md) file for details. -->
 
 ## Contributing
 
@@ -152,7 +152,7 @@ Check out the [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ✅ See [latest release](https://github.com/muhammad-fiaz/portfolio/releases/latest) version for production use!
 
-## Stay Connected!
+<!-- ## Stay Connected!
 
 Thank you for checking out [my portfolio on GitHub](https://github.com/muhammad-fiaz/portfolio)! We're constantly working to improve and enhance the project. To ensure you're always up-to-date with the latest changes, we recommend following these steps:
 
@@ -170,9 +170,9 @@ By following these steps, you'll be sure to stay connected with the latest devel
 
 If you have any questions or feedback, please don't hesitate to reach out.
 
-Don't forget to Stay tuned for updates and new features!
+Don't forget to Stay tuned for updates and new features! -->
 
 
-  <img   align="right" src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/ed52c517-611e-4647-9b35-acd001a287b9" width="20%" />
+  <!-- <img   align="right" src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/ed52c517-611e-4647-9b35-acd001a287b9" width="20%" /> -->
 
 ### Happy Coding! 😊

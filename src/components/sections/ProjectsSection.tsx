@@ -19,9 +19,9 @@ const ProjectsSection = () => {
     const fetchProjects = async () => {
       setIsLoading(true);
       try {
-        const response = await fetch(`/api/fetch-projects?search=${projectSearch}`);
-        const data = await response.json();
-        setAllProjectsInfo(data);
+        // const response = await fetch(`/api/fetch-projects?search=${projectSearch}`);
+        // const data = await response.json();
+        // setAllProjectsInfo(data);
       } catch (error) {
         console.error('Error fetching projects:', error);
       } finally {
