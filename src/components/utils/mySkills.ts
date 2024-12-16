@@ -48,7 +48,7 @@ export const skills = [
   },
   {
     title: 'Cloud Platforms and Hosting',
-    techs: ['AWS', 'Firebase', 'Netlify', 'Heroku', 'Digital Ocean']
+    techs: ['AWS', 'Firebase', 'Netlify', 'Heroku', 'Digital Ocean', 'Vercel']
   },
   {
     title: 'Databases',
