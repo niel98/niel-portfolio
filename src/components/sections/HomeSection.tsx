@@ -36,10 +36,9 @@ const HomeSection = () => {
           </h2>
 
           <p className="text-base text-gray-400">
-            I’ve been programming for over years, gaining experience with a
-            variety of programming languages, frameworks, and tools. I’ve worked
-            on both Frontend and Backend technologies, allowing me to understand
-            and contribute to the entire development process.
+          I’ve been programming for over 5 years, specializing in backend development with expertise in various languages, 
+          frameworks, and tools. My experience allows me to design, build, 
+          and optimize robust and scalable systems that drive seamless functionality.
           </p>
 
           <div className="flex flex-col items-start gap-3 mt-3">
